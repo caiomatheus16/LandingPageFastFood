@@ -15,7 +15,6 @@ nav{
     display: flex;
     padding: 0px 100px;
     justify-content: space-between;
-    background-color: black;
 
 }
 
@@ -54,7 +53,7 @@ ul li a:hover{
 }
 
 .header{
-    background-image: url('image/comida-caseira-brasilia_capa-1024x683.jpg');
+    background-image: url('image/Hamburger-with-Sesame-Seeds-Cheese-and-Veggies.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
